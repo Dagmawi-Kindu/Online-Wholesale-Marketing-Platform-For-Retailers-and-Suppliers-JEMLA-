@@ -1,0 +1,47 @@
+.fillpay {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin-left: 49%;
+    margin-top: 20%;
+}
+.fillpay .title{
+    font-size: 3.2rem;
+    color: #444;
+    margin-bottom: 10px;
+}
+.fillpay input, 
+.fillpay select {
+    max-width: 290px;
+    width: 100%;
+    background-color: #f0f0f0;
+    margin: 10px 0;
+    height: 55px;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 15% 85%;
+    padding: 0 0.4rem;
+    position: relative;
+}
+.btn-pay{
+    display: block;
+    width: 30%;
+    height: 50px;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    background-image: linear-gradient(to right, #f09432, #f09432,#f09432);
+    background-size: 200%;
+    font-size: 1.2rem;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    margin: 1rem 0;
+    cursor: pointer;
+    transition: .5s;
+}
+.payment .wave{
+        width: 50%; 
+}

@@ -1,0 +1,202 @@
+.product-feedback{
+    width: 50%;
+    background-color: white;
+    float: left;
+    margin: initial;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 8%;
+}
+.product-feedback p{
+    color: black;
+    margin: initial;
+    margin-left: 50px;
+}
+.product-feedback p:first-child{
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif, 'arial';
+    font-weight: 600;
+    font-size: 27px;
+}
+.product-feedback button{
+    border: 1px solid #d8d8d8;
+    border-radius: 10px;
+    /* padding: 10px 20px; */
+    padding: 10px 10px 10px 10px;
+    background-color: #d8d8d8;
+    color: black;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.product-feedback #btn1{
+    margin-left: 50px;
+}
+.product-feedback hr, .product-feedback p:nth-child(6),
+.product-feedback textarea{
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif, 'arial';
+    font-weight: 600;
+    font-size: 18px;
+    color: #9b9b9b;
+}
+.product-feedback textarea{
+    margin-left: 50px;
+    font-size: 130%;
+    color: black;
+}
+.product-feedback #btn4{
+    padding: 17px 44px;
+    border-radius: 15px;
+    background-color: #f09432;
+    color: white;
+    float: left;
+    margin-top: 20px;
+    margin-left: 60%;
+}
+img.wave-feed {
+    width: 67%;
+}
+
+/* input{
+    color: rgba(245, 242, 242, 0.61);
+} */
+
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.feedbackk-info-home-container {
+
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.feedbackk-info-home-main-page {
+  width: 1862px;
+  height: 770px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  margin-bottom: 1px;
+  flex-direction: column;
+  justify-content: center;
+}
+.feedbackk-info-home-container1 {
+  gap: 0;
+  width: 100%;
+  height: 706px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.feedbackk-info-home-image {
+  width: 679px;
+  height: 663px;
+  object-fit: cover;
+}
+.feedbackk-info-home-container2 {
+  flex: 0 0 auto;
+  width: 1129px;
+  height: 661px;
+  display: flex;
+  align-items: flex-start;
+  padding-left: 100px;
+  flex-direction: column;
+  justify-content: center;
+}
+.feedbackk-info-home-container3 {
+  width: 858px;
+  height: 149px;
+  display: flex;
+  align-items: flex-start;
+  border-bottom: 1px solid #B3ACAC;
+  flex-direction: column;
+}
+.feedbackk-info-home-text {
+  width: 749px;
+  height: 50px;
+  font-size: 25px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.feedbackk-info-home-container4 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 772px;
+  height: 61px;
+  display: flex;
+  justify-content: center;
+}
+.feedbackk-info-home-container4 button:hover{
+  background-color: #f09432;
+}
+.feedbackk-info-home-button {
+  width: 250px;
+  height: 53px;
+  align-self: flex-end;
+  text-align: center;
+  font-family: Poppins;
+  background-color: var(--dl-color-gray-900);
+  border-radius: 15px;
+  font-size:medium;
+}
+.feedbackk-info-home-button1 {
+  width: 250px;
+  height: 53px;
+  align-self: flex-end;
+  text-align: center;
+  font-family: Poppins;
+  background-color: var(--dl-color-gray-900);
+  border-radius: 15px;
+  font-size:medium;
+}
+.feedbackk-info-home-button2 {
+  width: 250px;
+  height: 53px;
+  align-self: flex-end;
+  text-align: center;
+  font-family: Poppins;
+  background-color: var(--dl-color-gray-900);  
+  border-radius: 15px;
+  font-size:medium;
+}
+.feedbackk-info-home-text1 {
+  color: var(--dl-color-gray-500);
+  width: 562px;
+  height: 66px;
+  font-size: 22px;
+  font-style: normal;
+  margin-top: 20px;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.feedbackk-info-home-textarea {
+  width: 837px;
+  height: 214px;
+  font-size: 20px;
+  font-family: Poppins; 
+}
+.feedbackk-info-home-container5 {
+  flex: 0 0 auto;
+  width: 838px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.feedbackk-info-home-button3 {
+  border-radius: 15px;
+  font-size:medium;
+  background-color: #f09432;
+  color: white;
+  width: 150px;
+  height: 50px;
+  align-self: center;
+  text-align: center;
+
+  
+  
+}

@@ -1,0 +1,233 @@
+.stat-bodyy{
+    background-color: #f6f9fc;
+}
+.my-admin-statsss-info-home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f6f9fc;
+}
+.my-admin-statsss-info-home-main-page {
+  width: 1862px;
+  height: 804px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #f6f9fc;
+}
+.my-admin-statsss-info-home-container01 {
+  gap: var(--dl-space-space-fourunits);
+  flex: 0 0 auto;
+  width: 1418px;
+  height: 149px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #f6f9fc;
+}
+.my-admin-statsss-info-home-container02 {
+  width: 500px;
+  height: 139px;
+  display: flex;
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: white;
+}
+.my-admin-statsss-info-home-container03 {
+  width: 252px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.my-admin-statsss-info-home-text {
+  color: var(--dl-color-gray-500);
+  width: 175px;
+  height: 40px;
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.my-admin-statsss-info-home-text04 {
+  color: var(--dl-color-gray-black);
+  width: 175px;
+  height: 40px;
+  font-size: 36px;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.my-admin-statsss-info-home-container04 {
+  width: 153px;
+  height: 115px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.my-admin-statsss-info-home-image {
+   width: 120px;
+  /* height: 104px; */
+  object-fit: cover;
+}
+.my-admin-statsss-info-home-container05 {
+  width: 500px;
+  height: 139px;
+  display: flex;
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: white;
+}
+.my-admin-statsss-info-home-container06 {
+  width: 252px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.my-admin-statsss-info-home-text05 {
+  color: var(--dl-color-gray-500);
+  width: 175px;
+  height: 40px;
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.my-admin-statsss-info-home-text09 {
+  color: var(--dl-color-gray-black);
+  width: 175px;
+  height: 40px;
+  font-size: 36px;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.my-admin-statsss-info-home-container07 {
+  width: 153px;
+  height: 115px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.my-admin-statsss-info-home-image1 {
+   width: 120px;
+  /* height: 104px; */
+  object-fit: cover;
+}
+.my-admin-statsss-info-home-container08 {
+  width: 500px;
+  height: 139px;
+  display: flex;
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: white;
+}
+.my-admin-statsss-info-home-container09 {
+  width: 252px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.my-admin-statsss-info-home-text10 {
+  color: var(--dl-color-gray-500);
+  width: 175px;
+  height: 40px;
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.my-admin-statsss-info-home-text14 {
+  color: var(--dl-color-gray-black);
+  width: 175px;
+  height: 40px;
+  font-size: 36px;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.my-admin-statsss-info-home-container10 {
+  width: 153px;
+  height: 115px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.my-admin-statsss-info-home-image2 {
+  width: 120px;
+  /* height: 104px; */
+  object-fit: cover;
+}
+.my-admin-statsss-info-home-container11 {
+  gap: var(--dl-space-space-twounits);
+  width: 1847px;
+  height: 646px;
+  display: flex;
+  margin-top: 15px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.my-admin-statsss-info-home-container12 {
+  flex: 0 0 auto;
+  width: 695px;
+  
+  height: 601px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+}
+.my-admin-statsss-info-home-container13 {
+  gap: 0;
+  flex: 0 0 auto;
+  width: 695px;
+  
+  height: 601px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+}

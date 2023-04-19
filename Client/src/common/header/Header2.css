@@ -1,0 +1,32 @@
+.header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    background-color: #131921;
+    top: 0;
+    z-index: 100;
+}
+.header-logo{
+    width: 216px;
+  object-fit: contain;
+  margin: -30px 23px;
+}
+p{
+    color: white;
+    margin-left: 300px;
+}
+.header .button{
+    margin-left: 450px;
+}
+.button Button{
+    margin-left: 10px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.button3{
+    background-color: green;
+}

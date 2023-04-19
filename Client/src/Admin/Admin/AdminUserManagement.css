@@ -1,0 +1,177 @@
+.my-admin-homee-page-home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.my-admin-homee-page-home-container01 {
+  width: 1920px;
+  height: 870px;
+  display: flex;
+  align-items: stretch;
+  background-size: fill;
+  justify-content: flex-end;
+}
+.my-admin-homee-page-home-container02 {
+  width: 1878px;
+  height: 100%;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  /* background-image: url("./adminPanel/supplierr.jpg"); */
+  background-image: url("./adminPanel/photo_2023-01-27_21-58-07.jpg");
+  /* filter: blur(8px);
+  -webkit-filter: blur(8px);  */
+}
+.my-admin-homee-page-home-container03 {
+  gap: var(--dl-space-space-unit);
+  width: 972px;
+  height: 752px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.my-admin-homee-page-home-container04 {
+  width: 814px;
+  height: 225px;
+  display: flex;
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  background-color: white;
+}
+.my-admin-homee-page-home-image {
+  width: 50%;
+  height: 100%;
+  object-fit: cover;
+}
+.my-admin-homee-page-home-container05 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+  justify-content: space-between;
+  color:#ff7568
+}
+.my-admin-homee-page-home-text {
+  font-size: 30px;
+  align-self: flex-start;
+  text-align: left;
+  font-family: Poppins;
+}
+.my-admin-homee-page-home-text1 {
+  font-size: 25px;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  color: #4548ed;
+}
+.my-admin-homee-page-home-container06 {
+  gap: var(--dl-space-space-unit);
+  width: 838px;
+  height: 527px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.my-admin-homee-page-home-container07 {
+  width: 406px;
+  height: 500px;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: white;
+}
+.my-admin-homee-page-home-image1 {
+  width: 100%;
+  height: 319px;
+  object-fit: cover;
+}
+.my-admin-homee-page-home-container08 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 216px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.my-admin-homee-page-home-text2 {
+  font-size: 30px;
+  align-self: center;
+  text-align: left;
+  font-family: Poppins;
+  color:#ff7568
+}
+.my-admin-homee-page-home-text3 {
+  font-size: 25px;
+  align-self: center;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  color: #4548ed;
+}
+.my-admin-homee-page-home-container09 {
+  width: 406px;
+  height: 500px;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: white;
+}
+.my-admin-homee-page-home-image2 {
+  width: 100%;
+  height: 319px;
+  object-fit: cover;
+}
+.my-admin-homee-page-home-container10 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 216px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  font-family: Poppins;
+  padding-top: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.my-admin-homee-page-home-text4 {
+  font-size: 30px;
+  align-self: center;
+  text-align: left;
+  font-family: Poppins;
+  color:#ff7568
+}
+.my-admin-homee-page-home-text5 {
+  font-size: 25px;
+  align-self: center;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  color: #4548ed;
+}

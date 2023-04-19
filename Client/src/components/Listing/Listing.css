@@ -1,0 +1,83 @@
+.listing-page{
+    display: flex;
+    flex-direction: row;
+}
+.listing-1{
+    display: flex;
+    flex-direction: column;
+}
+.listing-2{
+    padding: 16px;
+   border-top: 1px solid #e6ecf2;
+   float: left;
+    width: 100%;
+}
+.listing-list{
+    margin-left: 270px;
+    margin-top: -30px;
+   display: flex;
+   flex-direction: row;
+}
+.img-list {
+    float: left;
+    width: 257px;
+    height: 241px;
+}
+.listing-title {
+    position: relative;
+    padding-bottom: 8px;
+    font-size: 25px;
+    line-height: 1.3;
+    word-wrap: break-word;
+}
+.listing-title:hover {
+    color: #f09432;
+}
+.listing-right {
+    margin-left: 240px;
+    padding-top: 20px;
+    font-size: 21px;
+}
+.featured-pro {
+    margin: 5px 0;
+    padding-left: 20px;
+    color: #999;
+    background: url(https://www.micstatic.com/mic-search/img/featured-icon_ee6b6124.png) left center no-repeat;
+    font-size: 12px;
+}
+.featured-memb {
+    margin: 5px 0;
+    padding-left: 20px;
+    color: #999;
+    background: url(https://www.micstatic.com/common/img/icon/diamond_member_16.png?_v=1672238327906) left center no-repeat;
+    font-size: 18px;
+}
+.listing-rbottom {
+    margin-top: 20px;
+}
+.listing-list-desc > strong,
+.listing-rtop > strong,
+.listing-rmiddle > strong,
+.listing-rbottom > strong{
+        color: #888;
+        font-weight: normal;
+               font-size: 20px;
+}
+.listing-rtop,
+.listing-rmiddle,
+.listing-rbottom {
+    display: flex;
+}
+.listing-rtop >h3,
+.listing-rmiddle >h3,
+.listing-rbottom >h3{
+    margin-left: 1pc;
+}
+.listing-list-desc > span{
+    font-size: 20px;
+}
+/* image hover resize */
+.img-list:hover {
+    transform: scale(0.5);
+    transition: transform .5s ease;
+}

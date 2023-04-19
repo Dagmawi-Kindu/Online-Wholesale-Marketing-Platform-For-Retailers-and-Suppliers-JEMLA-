@@ -1,0 +1,314 @@
+.username-info-home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.username-info-home-main-page {
+  width: 1862px;
+  height: 732px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1px;
+  flex-direction: column;
+  justify-content: center;
+ 
+}
+.username-info-home-text {
+  color: var(--dl-color-danger-500);
+  font-size: 18px;
+  align-self: flex-end;
+  margin-top: var(--dl-space-space-unit);
+  font-family: Poppins;
+  margin-right: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.username-info-home-container01 {
+  gap: var(--dl-space-space-twounits);
+  width: 1109px;
+  height: 594px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  border-radius: 100px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: #f5f5f5;
+}
+.username-info-home-container02 {
+  width: 481px;
+  height: 460px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.username-info-home-text01 {
+  height: 25px;
+  font-size: 30px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+  margin-left: 165px;
+  margin-bottom: 30px;
+}
+.username-info-home-container03 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 376px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.username-info-home-container04 {
+  gap: var(--dl-space-space-unit);
+  width: 442px;
+  height: 376px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.username-info-home-image {
+  width: 330px;
+  height: 308px;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-round);
+}
+
+.username-info-home-textinput {
+  background-color: #f5f5f5;
+  height: 56px;
+  align-self: center;  
+  width: 200px;
+}
+.username-info-home-text05 {
+  align-self: center;
+}
+.username-info-home-container05 {
+  flex: 0 0 auto;
+  width: 537px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.username-info-home-container06 {
+  flex: 0 0 auto;
+  width: 537px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.username-info-home-container07 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.username-info-home-text06 {
+  font-size: 30px;
+  align-self: center;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.username-info-home-container08 {
+  flex: 0 0 auto;
+  width: 537px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.username-info-home-container09 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.username-info-home-container10 {
+  width: 524px;
+  height: 440px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.username-info-home-container11 {
+  gap: var(--dl-space-space-unit);
+  width: 483px;
+  height: 408px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.username-info-home-container12 {
+  gap: var(--dl-space-space-fourunits);
+  width: 100%;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.username-info-home-text07 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.username-info-home-text08 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 400;
+}
+.username-info-home-container13 {
+  gap: var(--dl-space-space-fourunits);
+  flex: 0 0 auto;
+  width: 100%;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.username-info-home-text09 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.username-info-home-text10 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 400;
+}
+.username-info-home-container14 {
+  gap: var(--dl-space-space-fourunits);
+  flex: 0 0 auto;
+  width: 100%;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.username-info-home-text11 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.username-info-home-text12 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 400;
+}
+.username-info-home-container15 {
+ 
+  flex: 0 0 auto;
+  width: 100%;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.username-info-home-text13 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+  margin-right: 20px;
+}
+.username-info-home-text14 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 400;
+}
+.username-info-home-container16 {
+ 
+  flex: 0 0 auto;
+  
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.username-info-home-text17 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.username-info-home-textinput1 {
+  width: 291px;
+  height: 44px;
+}
+.username-info-home-text18 {
+  font-size: 17px;
+}
+.username-info-home-container17 {
+  
+  flex: 0 0 auto;
+  width: 100%;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.username-info-home-text21 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+  margin-right: 20px;
+}
+.username-info-home-text22 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 400;
+}
+.username-info-home-container18 {
+ 
+  flex: 0 0 auto;
+  
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.username-info-home-text23 {
+  font-size: 17px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.username-info-home-textinput2 {
+  width: 291px;
+  height: 44px;
+}
+.username-info-home-text24 {
+  font-size: 17px;
+  margin-left: 10px;
+}
+.username-info-home-text27 {
+  color: var(--dl-color-success-300);
+  font-size: 21px;
+  font-style: normal;
+  margin-top: 5px;
+  font-family: Poppins;
+  font-weight: 400;
+}
