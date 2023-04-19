@@ -7,4 +7,4 @@
 
 Retailer Login: phone number(0911109559) password(Zed$0tad)
 Supplier Login: phone number(091212121212) password(kebede2022)
-Retailer Login: phone number(0970513180) password(@kasJ?21)
+Admin Login: phone number(0970513180) password(@kasJ?21)
